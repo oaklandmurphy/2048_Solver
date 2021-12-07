@@ -212,7 +212,6 @@ def game_over(grid):
 def findMax(grid):
 	return np.amax(grid)
 
-'''
 t0 = time.time()
 
 test_grid1 = [[0, 2, 0, 0], [0, 0, 0, 0], [0, 0, 2, 0], [0, 0, 0, 0]]
@@ -250,5 +249,3 @@ t1 = time.time()
 total = t1-t0
 
 print('time elapsed: ', total)
-print('estimated time for 10 runs: ', 10*total)
-'''
