@@ -4,3 +4,5 @@ This is an algorithm that plays the mobile game 2048 using an expectimax algorit
 Simply download and run search.py and the game will begin playing from the preset board state.
 
 You can modify the tree depth and breadth usingthe corresponding variables and can modify the starting sate by modifying the corresponding array.
+
+TODO: implement GUI
